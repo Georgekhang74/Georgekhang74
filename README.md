@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there, my name is George👋
 
 <!--
 **Georgekhang74/Georgekhang74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
