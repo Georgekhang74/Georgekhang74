@@ -10,7 +10,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Georgekhang74/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Georgekhang74/configure-ad/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Georgekhang74/azure-network-protocols/blob/main/README.md)
 
 - <b>Networking Labs(networking hardware)</b>
   - [BGP configuration](https://1drv.ms/p/c/2ef0f8a033076bfd/Ee_jbC9GYK1Apx3nrCLecrgBDtI2RbLlj1O2YXGRFVYWbA?e=0zNUkK)
