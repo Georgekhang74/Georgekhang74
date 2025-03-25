@@ -16,6 +16,7 @@
   - [BGP configuration](https://1drv.ms/p/c/2ef0f8a033076bfd/Ee_jbC9GYK1Apx3nrCLecrgBDtI2RbLlj1O2YXGRFVYWbA?e=0zNUkK)
   - [OSPF configuration](https://1drv.ms/p/c/2ef0f8a033076bfd/EdcEaaOgQPRLg6Fx-Vf0sxIBdghMVO7d6n7QdbDfqPHb5g?e=e5zp7A)
   - [EIGRP configuration](https://1drv.ms/p/c/2ef0f8a033076bfd/Ec7EvJpE5F9Copy-26xRjl0Bvsx9pm7Alx1dFDtTeGyLrg?e=OxqBth)
+     - https://github.com/Georgekhang74/EIGRP-Lab
   - [OSPF configuration](https://1drv.ms/p/c/2ef0f8a033076bfd/EaLdEifSVhVFqt27SRLLVwEBFGFZYBStQzOwlLX8BfXO6g?e=YfK7o7)
 <h2>🤳Connect with me:</h2>
 
