@@ -1,8 +1,10 @@
 
 
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/georgekhang/">George</a>☺</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/georgekhang/">George</a>☺ </h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Motivated IT Enthusiast with hands-on experience in troubleshooting, networking, and system administration. Certified in Google IT Support and CCNA, with additional knowledge of Active Directory, Azure, and Cisco networking tools. Passionate about supporting users and solving technical issues in fast-paced environments. Currently pursuing Security+ and seeking to grow with a motivated team where I can contribute and advance my skills.
+
+  <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Georgekhang74/osticket-prereqs)
