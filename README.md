@@ -22,7 +22,8 @@
   - [RIP configuration](https://1drv.ms/p/c/2ef0f8a033076bfd/EaLdEifSVhVFqt27SRLLVwEBFGFZYBStQzOwlLX8BfXO6g?e=YfK7o7)
  
 - <b>Cybersecurity Labs</b>
-
+   - [Performing a basic search in Splunk](https://github.com/Georgekhang74/Splunk-Basics/blob/main/README.md)
+  
 
 <h2>🤳Connect with me:</h2>
 
