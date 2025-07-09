@@ -23,7 +23,7 @@
  
 - <b>Cybersecurity Labs</b>
    - [Performing a basic search in Splunk](https://github.com/Georgekhang74/Splunk-Basics/blob/main/README.md)
-  
+   - [Creating an algorithm with Python](https://github.com/Georgekhang74/Creating-an-algorithm/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
